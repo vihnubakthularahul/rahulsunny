@@ -1,0 +1,7 @@
+
+this is sample file
+
+
+
+
+git status
